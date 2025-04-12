@@ -1,4 +1,4 @@
-#COMPRENSIONES
+#LISTAS COMPRENSIVAS
 
 #Esto es una lista intensional en Python
 a = [2 * x for x in range (1, 10+1)]
